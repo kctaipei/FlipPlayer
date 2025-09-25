@@ -1,13 +1,13 @@
 # FlipPlayer
 
-**FlipPlayer** – A flexible video player that lets you play forward, backward, record segments, and re-encode them while preserving original timing.  
+**FlipPlayer** – A flexible video player that lets you play forward, backward, record segments, and re-encode them while preserving original timing.
 
 ---
 
 ## 🎯 Usage Scenarios
-- 🎬 **Research / Teaching**: Inspect videos frame by frame, compare details before and after an event.  
-- 🏀 **Sports Analysis**: Instant replay and reverse playback to examine movements in detail (e.g., checking for fouls).  
-- 😂 **Creative Remixing**: Quickly capture clips, reverse them, and create memes or funny edits.  
+- 🎬 **Research / Teaching**: Inspect videos frame by frame, compare details before and after an event.
+- 🏀 **Sports Analysis**: Instant replay and reverse playback to examine movements in detail (e.g., checking for fouls).
+- 😂 **Creative Remixing**: Quickly capture clips, reverse them, and create memes or funny edits.
 
 ---
 
@@ -24,23 +24,23 @@
   </tr>
 </table>
 
-Media source: [link](https://pixabay.com/videos/fight-exercise-fitness-sport-203719)
+Media source: [Pixabay](https://pixabay.com/videos/fight-exercise-fitness-sport-203719)
 
 ---
 
 ## ✨ Features
-- 🎞️ **Forward / Backward Playback**  
-  Smooth, frame-accurate playback in both directions.  
-- 🎚️ **Interactive Control**  
-  - Play / Pause buttons  
-  - Switch between playback modes  
-  - Slider to jump to any frame  
-- ⏺️ **Recording Mode**  
-  Capture selected playback sequences (forward, backward, or mixed) as a new video.  
-- ⚡ **Frame-level Precision**  
-  Uses I-frame decoding and frame index tracking for accurate reverse navigation.  
-- 💾 **Efficient Memory Usage**  
-  Loads only the necessary frames into memory instead of buffering the entire video.  
+- 🎞️ **Forward / Backward Playback**
+  Smooth, frame-accurate playback in both directions.
+- 🎚️ **Interactive Control**
+  - Play / Pause buttons
+  - Switch between playback modes
+  - Slider to jump to any frame
+- ⏺️ **Recording Mode**
+  Capture selected playback sequences (forward, backward, or mixed) as a new video.
+- ⚡ **Frame-level Precision**
+  Uses I-frame decoding and frame index tracking for accurate reverse navigation.
+- 💾 **Efficient Memory Usage**
+  Loads only the necessary frames into memory instead of buffering the entire video.
 
 ---
 
